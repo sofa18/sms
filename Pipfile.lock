@@ -1,11 +1,12 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "1bc3f5e81b6503ec87480d0d216f87047688533b105adece155d41f751119b74"
+            "sha256": "a7d0666f56d14ca6a3bb0a1786730cdcf86ca852e0f5387cf81c354330fc37f9"
         },
         "pipfile-spec": 6,
         "requires": {
-            "python_version": "3.6"
+            "python_version": "3.6",
+            "twilio": "6.15.1"
         },
         "sources": [
             {
