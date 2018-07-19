@@ -1,1 +1,1 @@
-django_twilio
+django-twilio
