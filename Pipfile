@@ -11,3 +11,4 @@ django-heroku = "*"
 
 [requires]
 python_version = "3.6"
+twilio="6.15.1"
